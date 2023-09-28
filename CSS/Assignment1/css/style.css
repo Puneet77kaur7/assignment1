@@ -1,0 +1,160 @@
+
+.persona-card {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 5px;
+    border: 2px solid #007bff;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    height: 700px;
+   
+}
+
+.persona-header {
+    display: flex;
+    align-items: center;
+}
+
+.image img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid #007bff;
+}
+
+.header-info {
+    margin-left: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    color: #333;
+    margin: 0;
+}
+
+.location, .age {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+.persona-details {
+    margin-top: 20px;
+    
+}
+
+
+.bio h3, .Goals h3 , .Frustations h3   {
+    font-size: 20px;
+    color: #007bff;
+    margin-top: 0;
+}
+
+.bio p {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.Goals ul {
+    list-style-type: disc;
+    padding: 0;
+    margin-left: 10px;
+}
+
+.Goals ul li {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+strong {
+    font-weight: bold;
+    color: #007bff;
+}
+
+.Motivation {
+    height: 30px; 
+    margin: 0 auto;
+    
+    
+}
+ .Motivation h3   {
+    font-size: 20px;
+    color: #007bff;
+    margin-top: 0;
+}
+
+.bar1 {
+    width: 80%;
+    background-color: #007bff; 
+    margin-bottom: 10px; 
+    border-radius: 5px;
+}
+.bar2 {
+    width: 50%;
+    background-color: #007bff; 
+    margin-bottom: 10px; 
+    border-radius: 5px;
+}
+.bar3 {
+    width: 20%; 
+    background-color: #007bff; 
+    margin-bottom: 10px; 
+    border-radius: 5px;
+}
+.Qualities{
+    font-size: 20px;
+    color: #007bff;
+    margin-top: 15%;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.q1 {
+    width: 200px; 
+    height: 20px;
+    background-color: #007bff; 
+    margin-top: 50px;
+    margin-right: 10px;
+    color: black;
+    
+}
+.q2 {
+    width: 200px; 
+    height: 20px;
+    background-color: #007bff; 
+    margin-top: 50px;
+    margin-right: 10px;
+    color: black;
+   
+}
+.q3 {
+    width: 200px; 
+    height: 20px;
+    background-color: #007bff; 
+    margin-top: 50px;
+    margin-right: 10px;
+    color: black;
+    
+}
+.Frustations{
+    font-size: 20px;
+    color:black;
+    margin-top: 2%;
+    
+   
+}
+
+.Frustations ul {
+    list-style-type: disc;
+    padding: 0;
+    margin-left: 10px;
+}
+
+.Frustations ul li {
+    font-size: 16px;
+    margin: 3px 0;
+    margin-right: 8px;
+}
+
+
